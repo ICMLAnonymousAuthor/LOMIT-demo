@@ -14,7 +14,7 @@
 >$ bash data_download.sh
 
 #### Train
-* We have used a jupyter notebook for the training. (An example is in "Hair color, Non-smile.ipynb")
+* We have used a jupyter notebook for the training. (An example is in "train_example.ipynb")
 
 ## Model Overview
 <img src="https://user-images.githubusercontent.com/46959387/51620425-b0d69b80-1f75-11e9-991a-d0dcf5d8a1e2.png" width="90%"></img>
